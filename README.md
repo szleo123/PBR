@@ -1,4 +1,4 @@
-**University of Pennsylvania, Monte Carlo Path Tracer**
+**University of Pennsylvania, physically-based shader**
 
 * Yilin Li
 
@@ -18,7 +18,7 @@ Some scenes are shown below:
 ## How to Open 
 1. Clone the project.
 2. Go to folder assignment_package and open `pbrShader` with Qt.
-3. Enjoy the path tracer.
+3. Enjoy the shader.
 
 ## How to Use 
 - You can change scenes by click `Load Scenes` and change the environment map by click `Load Environment`.
